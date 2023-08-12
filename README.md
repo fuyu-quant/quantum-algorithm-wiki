@@ -1,1 +1,1 @@
-# quantum_algorithm
+# Quantum-algorithm-wiki
